@@ -43,7 +43,7 @@ __Business Constraint__: Maximize Power Generation while minimizing failures, th
 
 ● Establish connectivity between MySQL and Python.
 
-● Connect MySQL database to Tableau, Power BI for dynamic reporting.
+● Connect MySQL database to Power BI for dynamic reporting.
 
 ● Provide comprehensive reports and dashboards showcasing predictions and trends.
 
