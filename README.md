@@ -65,21 +65,55 @@ __Business Constraint__: Maximize Power Generation while minimizing failures, th
 ● Perform Univariate, Bivariate Analysis.
 
 # 📊 Dashboard Content:
-1. KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees, and Average Age.
+# Dashboard 1:
+1. KPI of Average Wheel Hub Temperature.
 
-2. Department-wise Attrition (Pie Chart).
+2. Wind turbine failure rate.
 
-3. Attrition by Age (Bar Graph).
+3. Wind turbine failure rate over time.
 
-4. Job Satisfaction Rating (Square Chart).
+4. Gearbox inlet temperature.
 
-5. Education Field-wise Attrition (Vertical Bar Graph).
+5. Generator bearing temperature over time.
 
-6. Total Employees by Gender (Donut Plot).
+6. Failure status based on wind speed.
 
-7. Attrition by Job Role (Tree Chart).
-# Dashboard:
-![HR_Data_Analytics](https://github.com/MPraveenKumar97/HR-DATA-ANALYTICS/assets/71966737/5e7361cd-ebc3-4602-b2dd-6f1b64075787)
+7. Power generation over time.
+
+8. Correlation between power and wind speed.
+
+9. Comparison of generator and nacelle ambient temperature over time.
+
+![Screenshot 2023-11-22 124830](https://github.com/MPraveenKumar97/Wind-Turbine-Failure-Analysis/assets/71966737/80e5f1db-9c0b-4879-9140-cacdb50606bc)
+
+# Dashboard 2:
+1. Sum of wind speed and power over time.
+
+2. Failure status depending on ambient temperature.
+
+3. Performance of rotor speed over time.
+
+4. Temperature of gear oil over time.
+
+5. Failure status based on generator speed over time.
+
+![Screenshot 2023-11-22 125346](https://github.com/MPraveenKumar97/Wind-Turbine-Failure-Analysis/assets/71966737/c26ca5db-61e8-46e8-976b-851c3829c43f)
+
+# Dashboard 3:
+1. Average Gear Box Inlet Temperature.
+
+2. Wind direction by Month.
+
+3. Failure Status based on Wind Direction.
+
+4. Average of Nacelle temperature.
+
+5. Sum of Gear oil temp and Generator bearing Temp over Month.
+
+6. Sum of Wind speed, Power, and Generator speed by Month.
+
+![Screenshot 2023-11-22 125458](https://github.com/MPraveenKumar97/Wind-Turbine-Failure-Analysis/assets/71966737/92547b86-7e3d-431b-b121-d8cde83b2e88)
+
 
 # 📈 Project Anticipated Benifits:
 ● Reduced unplanned wind turbine failures
